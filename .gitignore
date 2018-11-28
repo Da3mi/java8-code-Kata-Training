@@ -4,6 +4,23 @@
 # Log file
 *.log
 
+
+
+**/.classpath
+**/.flattened-pom.xml
+**/.project
+**/.settings
+**/.springBeans
+**/.readme.md.html
+**/bin
+**/target
+**/src/main/webapp/
+**/public/
+.metadata/
+.recommenders/
+.sonarlint/
+.idea/
+
 # BlueJ files
 *.ctxt
 
